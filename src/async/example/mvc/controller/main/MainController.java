@@ -2,11 +2,11 @@ package async.example.mvc.controller.main;
 
 import android.view.Menu;
 import android.view.MenuItem;
+import async.example.R;
 import async.example.async.AsyncCounter;
 import async.example.mvc.controller.Controller;
 import async.example.mvc.model.main.MainModel;
 import async.example.mvc.view.main.MainView;
-import mississauga.async.R;
 
 public class MainController extends Controller<MainView, MainModel>
 {

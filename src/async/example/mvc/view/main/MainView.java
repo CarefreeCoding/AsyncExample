@@ -2,10 +2,10 @@ package async.example.mvc.view.main;
 
 import android.widget.Button;
 import android.widget.TextView;
+import async.example.R;
 import async.example.mvc.controller.main.MainController;
 import async.example.mvc.model.main.MainModel;
 import async.example.mvc.view.View;
-import mississauga.async.R;
 
 public class MainView extends View<MainController, MainModel>
 {
